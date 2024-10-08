@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": ""
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Himanshu Mishra",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "",
   "dependencies": {
+    "birthday": "file:",
     "http-server": "^0.11.1"
   }
 }
